@@ -26,7 +26,7 @@
  } 
 
  /* simple selectors */ 
- h1 { color: #0f172a; }                  /* element */ 
+ h1 { color: #b4bac7; }                  /* element */ 
  .intro { background: #f8fafc; }          /* class   */ 
  #welcome { padding: 24px; }              /* id   */ 
  p.intro { font-size: 1.05rem; }           /* element.class */ 
